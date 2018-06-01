@@ -1,5 +1,5 @@
 # Prediction
-This code uses regression in order to predict future values basing on historical data. 
+This code uses regression in order to predict future values basing on historical data. You will find here only simple use of regression without interpretation of parameters, etc. 
 
 We can use MS Excel file with historical data. Many variables have to be situated in columns. One column - one variable. 
 An argument wanted_item is explained variable - we try to predict it. 
