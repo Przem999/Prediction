@@ -87,9 +87,7 @@ class predictvalues:
         prediction_df.to_csv(path_to_future)
         print(prediction_df) 
 
-future_one = predictvalues('D:\\P\\pyth\\predykcja\\pekao_dane2.xlsx', 'D:\\P\\pyth\\predykcja\\new_data_pekao2.xlsx', 'avg_share_price')
-predictvalues.param_materiality(future_one)
-predictvalues.prediction(future_one, 'D:\\P\\pyth\\predykcja\\predictvalues\\futurevalues.csv')
+
 
 
 
